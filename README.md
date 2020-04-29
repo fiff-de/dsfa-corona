@@ -13,7 +13,7 @@ Zudem zeigen wir, dass auch die dezentrale Implementierung zahlreiche gravierend
 
 Weitere Informationen siehe: https://www.fiff.de/presse/dsfa-corona
 
-
+=======================================================================================================================
 
 EN: Data Protection Impact Assessment (DPIA) for the Corona App        
 
