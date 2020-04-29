@@ -1,5 +1,4 @@
-# dsfa-corona
-**DE: Datenschutz-Folgenabschätzung (DSFA) für die Corona-App (EN below)**
+# DE: Datenschutz-Folgenabschätzung (DSFA) für die Corona-App (EN below)
 
 Seit der Ausbreitung des SARS-CoV-2-Virus in Europa Anfang 2020 wird der Ruf nach technischen Lösungen lauter, die bei der Bekämpfung oder Eindämmung der Pandemie zum Einsatz kommen sollen. Im Zentrum der Debatten stehen Tracing-Apps, die aufgrund der globalen Verbreitung von Smartphones mit der Verheißung aufgeladen werden, die herkömmlichen Verfahren zur Erforschung des epidemiologischen Verlaufs zu unterstützen. Diese Systeme würden automatisiert die zwischenmenschlichen Kontakte aller Nutzerïnnen aufzeichnen und es so erlauben, die Infektionsketten des Virus schnell und effizient auch rückwirkend nachzuvollziehen, um möglicherweise exponierte Personen frühzeitig isolieren zu können. Unter den verschiedenen Systementwürfen stechen jene hervor, die damit werben, datenschutzfreundlich und DSGVO-konform zu sein. Die DSGVO selbst verpflichtet die Betreiberïnnen umfangreicher Datenverarbeitungssysteme (zu denen auch ein Tracing-Apps zählen würden) zur Anfertigung einer Datenschutz-Folgenabschätzung (DSFA) aufgrund des hohen Risikos für die Rechte- und Freiheiten (Art. 35 DSGVO). Hierbei handelt es sich um eine strukturierte Risikoanalyse, die mögliche grundrechtsrelevante Folgen einer Datenverarbeitung im Vorfeld identifiziert und bewertet.
 
@@ -15,7 +14,7 @@ Weitere Informationen siehe: https://www.fiff.de/presse/dsfa-corona
 
 ---
 
-**EN: Data Protection Impact Assessment (DPIA) for the Corona App**
+# EN: Data Protection Impact Assessment (DPIA) for the Corona App
 
 Since the SARS-CoV-2 virus spread in Europe in early 2020, there has been a strong outcry for technical solutions to combat or contain the pandemic. At the heart of the debates are tracing apps, which, due to the global distribution of smartphones, are being loaded with the promise of supporting conventional methods for researching the epidemiological course of the disease. These systems would automatically record the interpersonal contacts of all users and thus make it possible to trace the infection chains of the virus quickly and efficiently, also retrospectively, in order to isolate potentially exposed persons at an early stage. Among the various system designs, those that advertise being data protection friendly and GDPR compliant stand out. The GDPR itself requires operators of extensive data processing systems (which would also include a tracing app) to prepare a data protection impact assessment (DPIA) due to the high risk to rights and freedoms (Art. 35 GDPR). This is a structured risk analysis that identifies and evaluates possible consequences of data processing relevant to fundamental rights in advance. 
 
